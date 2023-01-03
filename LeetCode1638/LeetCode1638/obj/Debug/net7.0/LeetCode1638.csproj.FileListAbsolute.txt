@@ -1,0 +1,15 @@
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/bin/Debug/net7.0/LeetCode1638
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/bin/Debug/net7.0/LeetCode1638.deps.json
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/bin/Debug/net7.0/LeetCode1638.runtimeconfig.json
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/bin/Debug/net7.0/LeetCode1638.dll
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/bin/Debug/net7.0/LeetCode1638.pdb
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.csproj.AssemblyReference.cache
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.AssemblyInfoInputs.cache
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.AssemblyInfo.cs
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.csproj.CoreCompileInputs.cache
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.dll
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/refint/LeetCode1638.dll
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.pdb
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/LeetCode1638.genruntimeconfig.cache
+/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/obj/Debug/net7.0/ref/LeetCode1638.dll

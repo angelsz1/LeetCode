@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gt9oA52zlPaNv8JqP5AZc7lCvugI0P3zEYiqXwV1xe8CePJDQcLLDlI3N603PA5QCnAc8PSnbyOybfMXpOZ4WA==",
+  "success": true,
+  "projectFilePath": "/home/angelsz/coding stuff/leetCode/LeetCode1638/LeetCode1638/LeetCode1638.csproj",
+  "expectedPackageFiles": [
+    "/home/angelsz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

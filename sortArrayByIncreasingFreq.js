@@ -1,4 +1,4 @@
-let array = [-1, 1, -6, 4, 5, -6, 1, 4, 1]
+var array = [-1, 1, -6, 4, 5, -6, 1, 4, 1]
 
 function combineAndDecombine(elements, freq) {
     var list = [];
